@@ -10,7 +10,7 @@ An efficient 3D implementation of this algorithm written in C++ can be found [he
 
 ## Minimal example
 
-A [minimal example](test/minimal_example.m) is provided in the `test` folder. It can be started with:
+A [minimal example](test/minimal_example.m) is provided in the [test](test) folder. It can be started with:
 
 ```matlab
 cd test
@@ -24,7 +24,7 @@ Source of the point clouds: *Myronenko, A.; Song, X.; Carreira-Perpinan, M. Non-
 information processing systems 2006, 19.*
 ## GUI
 
-We have implemented a graphical user interface (GUI) for testing the algorithm - it can be started with:
+We have implemented a graphical user interface (GUI) for testing the algorithm - it can be started in the [test](test) folder with:
 
 ```matlab
 cd test
