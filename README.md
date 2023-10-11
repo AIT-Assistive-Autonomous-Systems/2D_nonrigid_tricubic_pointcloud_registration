@@ -10,7 +10,7 @@ An efficient 3D implementation of this algorithm written in C++ can be found [he
 
 ## Minimal example
 
-A minimal example is provided in the `test` folder. It can be started with:
+A [minimal example](test/minimal_example.m) is provided in the `test` folder. It can be started with:
 
 ```matlab
 cd test
