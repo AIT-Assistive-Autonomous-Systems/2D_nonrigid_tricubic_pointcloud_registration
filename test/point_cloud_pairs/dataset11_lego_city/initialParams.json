@@ -1,0 +1,6 @@
+{
+    "cellSize": 15.0,
+    "buffer": 30,
+    "weightZeroObsF": 0.2,
+    "noIterations": 1
+}

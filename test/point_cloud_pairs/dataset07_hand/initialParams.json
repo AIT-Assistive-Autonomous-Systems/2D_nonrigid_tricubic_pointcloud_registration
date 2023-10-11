@@ -1,0 +1,6 @@
+{
+    "cellSize": 15,
+    "weightZeroObsF": 0.05,
+    "weightZeroObsFxFy": 0.05,
+    "noIterations": 1
+}
