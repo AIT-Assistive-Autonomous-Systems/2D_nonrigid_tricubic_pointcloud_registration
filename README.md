@@ -19,6 +19,8 @@ The preprint of the paper can be found [here](https://www.preprints.org/manuscri
 }
 ```
 
+Also available on [![View 2D_nonrigid_tricubic_pointcloud_registration on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/136784-2d_nonrigid_tricubic_pointcloud_registration).
+
 An efficient 3D implementation of this algorithm written in C++ can be found [here](https://github.com/AIT-Assistive-Autonomous-Systems/3D_nonrigid_tricubic_pointcloud_registration).
 
 ## Minimal example
