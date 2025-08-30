@@ -1,4 +1,4 @@
-# 2D non-rigid point cloud registration
+# 2D Non-Rigid Tricubic Point Cloud Registration
 
 ## Introduction
 
