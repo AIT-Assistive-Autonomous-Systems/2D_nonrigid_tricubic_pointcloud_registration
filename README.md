@@ -4,18 +4,20 @@
 
 This repository contains a prototype implementation of a 2D non-rigid point cloud registration algorithm. The algorithm is described in the paper "**Non-rigid point cloud registration using piece-wise tricubic polynomials as transformation model**".
 
-The preprint of the paper can be found [here](https://www.preprints.org/manuscript/202310.1120) - it can be cited as:
+The paper can be found [here](https://www.mdpi.com/2072-4292/15/22/5348) - it can be cited as:
 
 ```
-@article{glira2023,
-	doi = {10.20944/preprints202310.1120.v1},
-	url = {https://doi.org/10.20944/preprints202310.1120.v1},
-	year = 2023,
-	month = {October},
-	publisher = {Preprints},
-	author = {Philipp Glira and Christoph Weidinger and Johannes Otepka-Schremmer and Camillo Ressl and Norbert Pfeifer and Michaela Haberler-Weber},
-	title = {Non-Rigid Point Cloud Registration Using Piece-Wise Tricubic Polynomials as Transformation Model},
-	journal = {Preprints}
+@article{glira2023a,
+  article-number = {5348},
+  author         = {Glira, Philipp and Weidinger, Christoph and Otepka-Schremmer, Johannes and Ressl, Camillo and Pfeifer, Norbert and Haberler-Weber, Michaela},
+  doi            = {10.3390/rs15225348},
+  issn           = {2072-4292},
+  journal        = {Remote Sensing},
+  number         = {22},
+  title          = {Nonrigid Point Cloud Registration Using Piecewise Tricubic Polynomials as Transformation Model},
+  url            = {https://www.mdpi.com/2072-4292/15/22/5348},
+  volume         = {15},
+  year           = {2023}
 }
 ```
 
@@ -37,6 +39,7 @@ This example registers two point clouds of a fish in a non-rigid manner. The res
 
 Source of the point clouds: *Myronenko, A.; Song, X.; Carreira-Perpinan, M. Non-rigid point set registration: Coherent point drift. Advances in neural
 information processing systems 2006, 19.*
+
 ## GUI
 
 We have implemented a graphical user interface (GUI) for testing the algorithm - it can be started in the [test](test) folder with:
@@ -51,3 +54,7 @@ run_nonrigidRegistrationGUI.m
 ## Requirements
 
 The prototype has been tested with *Matlab R2023a*. It requires the "Statistics and Machine Learning Toolbox".
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AIT-Assistive-Autonomous-Systems/2D_nonrigid_tricubic_pointcloud_registration&type=Date)](https://www.star-history.com/#AIT-Assistive-Autonomous-Systems/2D_nonrigid_tricubic_pointcloud_registration&Date)
